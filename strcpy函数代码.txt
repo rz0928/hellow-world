@@ -7,3 +7,6 @@ char* StrCpy(char* src)
 	newstr[len] = '\0';
 	return newstr;
 }
+/*
+本地编辑
+*/
